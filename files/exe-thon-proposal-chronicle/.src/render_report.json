@@ -1,0 +1,126 @@
+{
+  "ok": true,
+  "pdf": "/home/hatch/workspace/goals/exe-thon-2026-team-nexus/files/exe-thon-proposal-chronicle/exe-thon-proposal-chronicle.pdf",
+  "pages": 0,
+  "pngs": [],
+  "fonts": {
+    "missing": [],
+    "unused": [],
+    "used": [
+      "Noto Sans CJK KR",
+      "Noto Serif CJK KR"
+    ],
+    "expected": [
+      "Noto Sans CJK KR:400",
+      "Noto Sans CJK KR:700",
+      "Noto Serif CJK KR:700"
+    ]
+  },
+  "overflow": [],
+  "text_floor": [
+    {
+      "index": 0,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 36,
+          "max_node_chars": 33,
+          "sample": "같은 나이, 다른 시대 - .EXE-THON 2026 기획서 (3세대 연"
+        },
+        {
+          "pt": 8.8,
+          "chars": 183,
+          "max_node_chars": 45,
+          "sample": "시대 초상 · 흑백 스튜디오 · 파생 · AI 합성"
+        },
+        {
+          "pt": 9.5,
+          "chars": 43,
+          "max_node_chars": 43,
+          "sample": "Team Nexus (개인 참가)  |  3세대 연표 AI 에이전트  |"
+        },
+        {
+          "pt": 9.8,
+          "chars": 124,
+          "max_node_chars": 34,
+          "sample": "생년 3개 + 호칭·개인 이벤트(연도+한 줄), 가운데 세대 사진 1장("
+        },
+        {
+          "pt": 10,
+          "chars": 193,
+          "max_node_chars": 39,
+          "sample": ".EXE-THON 2026 출품 기획서"
+        },
+        {
+          "pt": 10.2,
+          "chars": 32,
+          "max_node_chars": 11,
+          "sample": "1. 입력"
+        },
+        {
+          "pt": 10.5,
+          "chars": 299,
+          "max_node_chars": 115,
+          "sample": "부모 세대의 젊은 시절은 이야기로만 전해집니다. 아버지가 스무 살에 어떤"
+        },
+        {
+          "pt": 11.5,
+          "chars": 129,
+          "max_node_chars": 35,
+          "sample": "같은 나이, 다른 시대"
+        },
+        {
+          "pt": 13,
+          "chars": 60,
+          "max_node_chars": 22,
+          "sample": "문제 - 우리는 아버지의 스무 살을 모르고 삽니다"
+        },
+        {
+          "pt": 25,
+          "chars": 20,
+          "max_node_chars": 12,
+          "sample": "아버지의 스무 살,"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 36,
+          "max_node_chars": 33,
+          "sample": "같은 나이, 다른 시대 - .EXE-THON 2026 기획서 (3세대 연"
+        },
+        {
+          "pt": 10,
+          "chars": 1227,
+          "max_node_chars": 108,
+          "sample": "입력 사진은 가운데 세대인"
+        },
+        {
+          "pt": 13,
+          "chars": 98,
+          "max_node_chars": 23,
+          "sample": "사진 규칙 - 사진은 한 장, 얼굴은 세 세대로 파생합니다"
+        }
+      ]
+    }
+  ],
+  "image_resolution": [
+    {
+      "index": 0,
+      "images": []
+    },
+    {
+      "index": 1,
+      "images": []
+    }
+  ],
+  "geometry": {
+    "failures": [],
+    "advisories": []
+  },
+  "gate_failures": [],
+  "advisories": []
+}
